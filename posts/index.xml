@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo tranquilpeak theme</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <title>Posts on yume-nog</title>
+    <link>https://yume-nog.github.io/posts/</link>
+    <description>Recent content in Posts on yume-nog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2024 16:06:42 +0800</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 16:06:42 +0800</lastBuildDate><atom:link href="https://yume-nog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
-      <link>https://example.org/2024/01/first_post/</link>
+      <link>https://yume-nog.github.io/2024/01/first_post/</link>
       <pubDate>Tue, 30 Jan 2024 16:06:42 +0800</pubDate>
       
-      <guid>https://example.org/2024/01/first_post/</guid>
+      <guid>https://yume-nog.github.io/2024/01/first_post/</guid>
       <description>&lt;p&gt;摘要：这是第一篇post，用于测试&lt;/p&gt;</description>
     </item>
     
